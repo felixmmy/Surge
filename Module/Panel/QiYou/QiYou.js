@@ -2,7 +2,7 @@
 * 作者：felix
 * 更新时间：2024年1月8日
 **********/
-var region = 'shanxi-3/xian'
+var region = 'jiangsu/changzhou'
 
 if (typeof $argument !== 'undefined' && $argument !== '') {
     region = $argument
