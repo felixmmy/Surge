@@ -1,5 +1,4 @@
-DOMAIN,global.quickconnect.to
-
+#群晖通过代理服务器连接防止DNS不直连
 DOMAIN,checkipv6.quickconnect.to
 
 DOMAIN,account.synology.com
